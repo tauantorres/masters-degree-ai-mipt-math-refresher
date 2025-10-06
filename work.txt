@@ -234,19 +234,7 @@ Use an inspiring background image (data + fluid simulation overlay).
 * Thank you for your attention!
 * I appreciate the opportunity to analyze this thesis and learn from its approach.
 * **Tauan Torres Mendes**
-  📧 [tauan.torres@example.com](mailto:tauan.torres@example.com)
+  📧 [tauantorresm@gmail.com](tauantorresm@gmail.com)
   🎓 MIPT – Master in Artificial Intelligence
-  🌐 [LinkedIn / ResearchGate (optional)]
 
-*(If teamwork → add “Contributions: Research & Analysis – Tauan Torres Mendes (100%)”)*
 
-**Design Tip:**
-Use simple “Thank You” slide, centered text, white or light-blue background.
-
----
-
-Would you like me to now generate:
-1️⃣ A **ready-to-copy version** (Markdown or `.pptx` outline) with layout placeholders, or
-2️⃣ Include also **slides about the defense discussion** once you share the YouTube transcript?
-
-That way I can finalize your PowerPoint completely (≈ 15 slides total).
